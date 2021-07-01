@@ -13,5 +13,5 @@ citation: 'Thanh-Tung Nguyen, Xuan-Phi Nguyen, Shafiq Joty, Xiaoli Li'
 </p>
 
 <h2>Summary</h2>
-<img src='/images/publications/rst_parsing_scratch.png'>
+<img src='/images/publications/cond_parser.png'>
 
